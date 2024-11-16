@@ -1,3 +1,4 @@
+// baseNode.js
 import React, { useState } from 'react';
 import { Handle, Position } from 'reactflow';
 
