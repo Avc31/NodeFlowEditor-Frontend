@@ -1,6 +1,6 @@
 // ImageNode.js
 import React from 'react';
-import BaseNode from './baseNode';
+import BaseNode from '../components/BaseNode';
 
 export const ImageNode = ({ id, data }) => (
   <BaseNode

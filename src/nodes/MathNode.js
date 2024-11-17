@@ -1,5 +1,5 @@
 import React from 'react';
-import BaseNode from './baseNode';
+import BaseNode from '../components/BaseNode';
 
 export const MathNode = ({ id, data }) => (
   <BaseNode
